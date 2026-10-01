@@ -9,7 +9,7 @@ Pour maîtrise [[3.1 Flexbox (introduction) |flexbox]], je vous recommande de jo
 
 [Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/)
 
-![](https://github.com/YannHY/html-css-js/blob/main/Images/flexbox-froggy.png)
+![](https://github.com/fduranddev/html-css-js/blob/main/Images/flexbox-froggy.png)
 
 Le principe est simple. 
 

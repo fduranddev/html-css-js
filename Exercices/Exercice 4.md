@@ -9,7 +9,7 @@ Nous allons à présent améliorer notre page en appliquant quelques styles et e
 
 À vous de jouer !
 
-![](https://github.com/YannHY/html-css-js/blob/main/Exercices/Images/dessins-leopoldine-4.png)
+![](https://github.com/fduranddev/html-css-js/blob/main/Exercices/Images/dessins-leopoldine-4.png)
 
 📁 [Voir le dossier 04](https://app.box.com/s/wzc7zdwnhmrypn66z5pct2e7uc57aijk)
 

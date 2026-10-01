@@ -13,6 +13,6 @@ Ajoutez quelques `margin` et `padding`  pour « aérer » un peu cette page et
 
 Voici le résultat auquel je vous propose de parvenir.
 
-![](https://github.com/YannHY/html-css-js/blob/main/Exercices/Images/dessins-leopoldine-5.png)
+![](https://github.com/fduranddev/html-css-js/blob/main/Exercices/Images/dessins-leopoldine-5.png)
 
 📁 [Voir le dossier 05](https://app.box.com/s/wzc7zdwnhmrypn66z5pct2e7uc57aijk)

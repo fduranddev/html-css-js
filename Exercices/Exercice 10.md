@@ -13,6 +13,6 @@ En effet, nos colonnes sont désormais un peu grosses, et il y a un peu trop d'e
 
 À vous de jouer !
 
-![](https://github.com/YannHY/html-css-js/blob/main/Exercices/Images/responsive-design.gif)
+![](https://github.com/fduranddev/html-css-js/blob/main/Exercices/Images/responsive-design.gif)
 
 📁 [Voir le dossier 10](https://app.box.com/s/wzc7zdwnhmrypn66z5pct2e7uc57aijk)

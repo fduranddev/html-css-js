@@ -16,6 +16,6 @@ Nous allons réinvestir tout ce que nous avons vu
 5. espacer les éléments en utilisant `margin` et `padding`
 6. centrer la page
 
-![](https://github.com/YannHY/html-css-js/blob/main/Exercices/Images/exercice6.png)
+![](https://github.com/fduranddev/html-css-js/blob/main/Exercices/Images/exercice6.png)
 
 📁 [Voir le dossier 06](https://app.box.com/s/wzc7zdwnhmrypn66z5pct2e7uc57aijk)

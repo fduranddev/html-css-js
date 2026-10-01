@@ -15,6 +15,6 @@ En utilisant les requêtes média, il vous suffira de changer la couleur de l'ar
 
 Bon courage !
 
-![](https://github.com/YannHY/html-css-js/blob/main/Exercices/Images/mode-sombre.png)
+![](https://github.com/fduranddev/html-css-js/blob/main/Exercices/Images/mode-sombre.png)
 
 📁 [Voir le dossier 11](https://app.box.com/s/wzc7zdwnhmrypn66z5pct2e7uc57aijk)

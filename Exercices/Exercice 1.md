@@ -13,7 +13,7 @@ Nous allons créer une page web composée de trois parties (trois figures à dev
 2. Nous ajouterons le texte (à copier & coller) et le formaterons.
 3. Nous ajouterons les liens et les images.
 
-![](https://github.com/YannHY/html-css-js/blob/main/Exercices/Images/exercice1.png)
+![](https://github.com/fduranddev/html-css-js/blob/main/Exercices/Images/exercice1.png)
 
 En somme, il s'agira essentiellement d'ajouter les balises `<h1>` et `<h2>` pour les titres, les balises `<p>`, `<strong>`, `<em>`, `<ul>` et `<li>` ou `<blockquote>` pour le texte. On ajoutera enfin les liens (`<a>`) et les images (`<img>`).
 
